@@ -1,0 +1,27 @@
+ 0.2173      1 txt_shall
+ 0.1638      2 pos_md vb
+ 0.153       3 pos_nn md
+ 0.153       3 pos_nns md
+ 0.1459      4 pos_nn md vb
+ 0.1427      5 pos_md
+ 0.1171      6 txt_must
+ 0.0949      7 txt_shall be
+ 0.0774      8 pos_jj nn md
+ 0.0692     10 pos_md vb vbn
+ 0.0673     11 txt_shall not
+ 0.067      12 pos_dt nn md
+ 0.0578     14 txt_be
+ 0.0553     17 pos_md rb vb
+ 0.0533     20 pos_md rb
+ 0.0533     21 pos_vbn to 
+ 0.0519     25 pos_md vb dt  
+ 0.045      36 txt_maintain
+ 0.0447     37 pos_md vb in 
+ 0.0445     40 pos_nns md rb 
+ 0.0443     42 txt_and shall  
+ 0.0387     59 txt_required
+ 0.0386     62 txt_section shall
+ 0.0382     65 pos_nn nn md
+ 0.0377     66 pos_md vb jj
+ 0.0373     72 txt_institution shall
+ 0.0362     81 txt_must be

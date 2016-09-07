@@ -1,0 +1,20 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head></head>
+	<body>
+		<point eid="sec_2__list_1__point_2" class="">
+			<num>(2) </num>
+			<content eid="sec_2__list_1__point_2__content">
+				<p>
+					<def refersto="americaCupRaceManagement" class="definition">America's cup
+						race management.</def>
+					<ganeshamark class="active">
+						<ganeshamark>--The term ``America's Cup Race Management'' means
+							the entity established to provide for independent, professional,
+							and neutral race management of the America's Cup sailing
+							competitions.</ganeshamark>
+					</ganeshamark>
+				</p>
+			</content>
+		</point>
+	</body>
+</html>

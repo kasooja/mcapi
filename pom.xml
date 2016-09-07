@@ -40,6 +40,71 @@
 			<version>1.8</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.sun.jersey.contribs</groupId>
+			<artifactId>jersey-multipart</artifactId>
+			<version>1.8</version>
+		</dependency>
+
+		<dependency>
+			<groupId>nz.ac.waikato.cms.weka</groupId>
+			<artifactId>LibSVM</artifactId>
+			<version>1.0.8</version>
+		</dependency>
+
+		<dependency>
+			<groupId>edu.stanford.nlp</groupId>
+			<artifactId>stanford-corenlp</artifactId>
+			<version>3.6.0</version>
+		</dependency>
+
+		<!--<dependency> <groupId>edu.stanford.nlp</groupId> <artifactId>stanford-corenlp</artifactId> 
+			<version>3.6.0</version> <classifier>models</classifier> </dependency> -->
+
+		<!-- https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/weka-stable -->
+		<!-- https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/weka-dev -->
+		<dependency>
+			<groupId>nz.ac.waikato.cms.weka</groupId>
+			<artifactId>weka-dev</artifactId>
+			<version>3.7.11</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/io.github.kohsah/akomantoso-lib -->
+		<dependency>
+			<groupId>io.github.kohsah</groupId>
+			<artifactId>akomantoso-lib</artifactId>
+			<version>1.0.13</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.googlecode.json-simple</groupId>
+			<artifactId>json-simple</artifactId>
+			<version>1.1.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore -->
+		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.4</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.mashape.unirest/unirest-java -->
+		<dependency>
+			<groupId>com.mashape.unirest</groupId>
+			<artifactId>unirest-java</artifactId>
+			<version>1.4.9</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.squareup.okhttp/okhttp -->
+		<dependency>
+			<groupId>com.squareup.okhttp</groupId>
+			<artifactId>okhttp</artifactId>
+			<version>2.7.5</version>
+		</dependency>
+
+
 	</dependencies>
 	<build>
 		<finalName>mcapi</finalName>
@@ -49,8 +114,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.3</version>
 				<configuration>
-					<source>1.8</source>
-					<target>1.8</target>
+					<source>1.6</source>
+					<target>1.6</target>
 					<encoding>UTF-8</encoding>
 				</configuration>
 			</plugin>
